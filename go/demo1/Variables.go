@@ -14,4 +14,7 @@ func main() {
 
 	f := "apple"
 	fmt.Println(f)
+
+	g, h := 1, 1
+	fmt.Println(g + h)
 }
